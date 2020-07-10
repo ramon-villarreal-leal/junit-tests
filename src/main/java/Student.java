@@ -34,7 +34,7 @@ public class Student {
     public void addGrade(int grade) {
         grades.add(grade);
     }
-    //Getting average grade in list
+    //Getting average grade in listdd
     public double getGradeAverage() {
         double sum = 0;
         for(int i = 0; i < grades.size(); i++) {
